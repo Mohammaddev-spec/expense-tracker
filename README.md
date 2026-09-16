@@ -45,4 +45,3 @@ A simple command-line expense tracker built in Python. Tracks expenses by catego
 - Split code into multiple files (main, storage, expense logic)
 - Add automated tests
 - Optional GUI version
-- 
