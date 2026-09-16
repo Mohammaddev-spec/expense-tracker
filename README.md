@@ -14,7 +14,7 @@ A simple command-line expense tracker built in Python. Tracks expenses by catego
 
 ## How to run
 
-    python main.py
+    python Expense_tracker.py
 
 ## How it works
 
